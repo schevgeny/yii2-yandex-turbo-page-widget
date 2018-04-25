@@ -1,6 +1,6 @@
 <?php
 
-namespace schevgeny;
+namespace schevgeny\yii\yandex\turbo_page;
 
 use DateTime;
 use DOMDocument;

@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "schevgeny\\yii2-yandex-turbo-page-widget\\": ""
+            "schevgeny\\yii\\yandex\\turbo_page\\": ""
         }
     },
     "require": {

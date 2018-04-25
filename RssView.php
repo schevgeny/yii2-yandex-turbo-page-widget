@@ -1,11 +1,11 @@
 <?php
 
-namespace schevgeny;
+namespace schevgeny\yii\yandex\turbo_page;
 
 use yii\base\InvalidConfigException;
 use yii\helpers\ArrayHelper;
 use yii\widgets\BaseListView;
-use schevgeny\Feed;
+use schevgeny\yii\yandex\turbo_page\Feed;
 
 class RssView extends BaseListView
 {
