@@ -1,0 +1,26 @@
+{
+    "name": "schevgeny/yii2-yandex-turbo-page-widget",
+    "description": "Yii2 yandex turbo page widget",
+    "type": "library",
+    "keywords": ["yii2","extension","widget","yandex","turbo"],
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "schevgeny",
+            "email": "schevgeny@gmail.com"
+        }
+    ],
+    "support": {
+            "issues": "https://github.com/schevgeny/yii2-yandex-turbo-page-widget/issues",
+            "source": "https://github.com/schevgeny/yii2-yandex-turbo-page-widget"
+    },
+    "autoload": {
+        "psr-4": {
+            "schevgeny\\yii2-yandex-turbo-page-widget\\": ""
+        }
+    },
+    "require": {
+        "php": "^5.3.3 || ^7.0"
+    }
+}
